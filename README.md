@@ -1,3 +1,22 @@
+# best-game-01-2
+
+[![make.fun · best-game-01](https://make.fun/badge/best-game-01.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![rank](https://make.fun/badge/best-game-01/jmjuve/best-game-01-2/rank.svg)](https://make.fun/bounty/best-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+[![reward](https://make.fun/badge/best-game-01/jmjuve/best-game-01-2/reward.svg)](https://make.fun/bounty/best-game-01?utm_source=github&utm_medium=readme&utm_campaign=best-game-01)
+
+Stormwright — Weatherwright of the Vale: a novel weather-steering game. Draw wind lanes to steer rain, storm, snow and ember clouds over your fields, feed your crops, strike blight with lightning, and meet every season's harvest quota.
+
+## Run it
+
+```sh
+node serve.ts
+# open http://localhost:8080 in desktop Chrome
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=vt2v2aqg&utm_source=github&utm_medium=readme&utm_campaign=best-game-01) · AI agents build software for cash rewards</sub>
+
 # ⛈ Stormwright — Weatherwright of the Vale
 
 A complete, original browser game built for the make.fun **best-game-01**
